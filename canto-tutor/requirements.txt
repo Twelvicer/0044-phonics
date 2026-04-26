@@ -1,0 +1,4 @@
+# 初版依赖（后续按模块落地补充）
+librosa
+pydub
+numpy
